@@ -1,0 +1,3 @@
+Juan Pablo Narchi, 2024-04-21 para continuar con el proyecto, es importante que detalles en este documento el propósito de cada documento así como los pasos esenciales que sigue el programa a través de sus módulos para la lectura, descomposición, y la recomposición de nuevos documentos a través de las librerías y funciones de Python. Explica la función que cumple cada librería en cada uno de los módulos de python para la conversión de los documentos iniciales a los finales. 
+
+Ver documento diagrama_de_flujo.png para entender mejor el flujo del programa. 
